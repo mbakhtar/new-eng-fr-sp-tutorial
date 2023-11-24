@@ -11,7 +11,8 @@
         "main.ts",
         "README.md",
         "wind-1-en-fr-es.md",
-        "_locales/fr/wind-1-en-fr-es.md"
+        "_locales/fr/wind-1-en-fr-es.md",
+        "_locales/es-ES/wind-1-en-fr-es.md"
     ],
     "testFiles": [
         "test.ts"
